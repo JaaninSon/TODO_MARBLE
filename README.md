@@ -2,7 +2,7 @@
 Google Momentum 기본 기능을 참조하여 부루마블 컨셉으로 제작한 개인 대시보드 서비스<br><br>
 🌐 https://jaaninson.github.io/TODO_MARBLE
 
-![초기화면](./img/TDM_01.png)<br>
+![초기화면](./img/TDM_01.PNG)<br>
 
 ---
 
